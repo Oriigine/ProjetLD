@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Useless/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/MenuRelated/MainMenuScene.unity
+    guid: 0deafe699872ad748ba6385f59f9b4cd
+  - enabled: 1
+    path: Assets/Scenes/Andrea.unity
+    guid: 5d8422e83a0d22b4c851d2692354f3f7
+  - enabled: 1
+    path: Assets/Scenes/Yoan.unity
+    guid: 7fa385a35647b3948873f6a711c39a3b
+  - enabled: 1
+    path: Assets/Scenes/Mondhor.unity
+    guid: 24cc52bf54376da45ab1b63f16902434
   m_configObjects: {}
